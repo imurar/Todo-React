@@ -39,5 +39,8 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://imurar.github.io/Todo-React"
+  "homepage": "https://imurar.github.io/Todo-React",
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  }
 }
